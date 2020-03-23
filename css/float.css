@@ -2,7 +2,7 @@
 .float{
     text-align: center;
     position: fixed;
-    right: 0; top: 35%;
+    right: 0; top: 20%;
     border-left: 1px solid rgba(0, 0, 0, 0.1);
 }
 .float a{
